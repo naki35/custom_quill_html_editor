@@ -1,6 +1,6 @@
 import 'dart:async' show Future;
 // ignore: avoid_web_libraries_in_flutter
-import 'dart:js' as js;
+import 'package:universal_html/js.dart' as js;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
